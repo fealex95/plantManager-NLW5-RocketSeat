@@ -98,7 +98,7 @@ export function PlantSelect() {
                 </Text>
             </View>
 
-            <View>
+            <View style={styles.listEnvironments}>
                 <FlatList
                     data={environments}
                     keyExtractor={(item) => String(item.key)}
@@ -166,7 +166,7 @@ const styles = StyleSheet.create({
         height: 40,
         justifyContent: 'center',
         paddingBottom: 5,
-        marginLeft: 32,
+        paddingHorizontal: 32,
         marginVertical: 32,
     },
 
@@ -175,4 +175,6 @@ const styles = StyleSheet.create({
         paddingHorizontal: 32,
         justifyContent: 'center'
     }
+
+
 })
