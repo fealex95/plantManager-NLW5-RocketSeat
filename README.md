@@ -10,5 +10,5 @@ A idéia do aplicativo é ajudar a cuidar de diversas plantas no dia-a-dia infor
 React Native, Expo
 ## Screenshots
 
-<img src="https://github.com/fealex95/plantManager-NLW5-RocketSeat/blob/main/Screenshot_20220326-120429_Plant%20Manager.jpg" width=100 />
+<img src="https://github.com/fealex95/plantManager-NLW5-RocketSeat/blob/main/Screenshot_20220326-120429_Plant%20Manager.jpg" width=150 />
 
